@@ -1,6 +1,9 @@
-FactoryGirl.define do
-  factory :school_class do
-    title "Computer Science"
-    room_number 5
-  end
-end
+# FactoryGirl.define do
+#   factory :school_class do
+#     name "MyString"
+# string, "MyString"
+# room_number "MyString"
+# integer "MyString"
+#   end
+#
+# end
